@@ -1,0 +1,9 @@
+1.creating personalized github token 
+and create .streamlit folder inside subfile secret.toml file to paste acess token from
+and acess token can using in project file app.py
+
+2.ollama software download and install system 
+
+3. ollama software inside ollama 3.1.b model will be install
+
+2.ollama can be install following python version 3.8 to 3.10

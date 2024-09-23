@@ -1,0 +1,6 @@
+pandas
+plotly
+ollama
+requests
+pygithub
+streamlit

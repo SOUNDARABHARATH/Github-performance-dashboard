@@ -1,0 +1,2 @@
+name,full_name,description,language,created_at,updated_at,stargazers_count,forks_count,open_issues_count
+falldetection_openpifpaf,cwlroda/falldetection_openpifpaf,Fall Detection using OpenPifPaf's Human Pose Estimation model,Python,2020-08-18T02:58:56+00:00,2024-09-16T05:39:55+00:00,340,96,43

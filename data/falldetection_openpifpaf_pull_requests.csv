@@ -1,0 +1,16 @@
+id,title,created_at,merged_at,user
+2047390237,Bump opencv-python from 4.2.0.34 to 4.8.1.78,2024-08-30T23:54:27+00:00,Not Merged,dependabot[bot]
+1987266371,Bump torch from 1.6.0 to 2.2.0,2024-07-25T11:04:07+00:00,Not Merged,dependabot[bot]
+1830458625,[Snyk] Security upgrade torch from 1.6.0 to 2.2.0,2024-04-18T22:28:18+00:00,Not Merged,cwlroda
+1801008803,[Snyk] Security upgrade pillow from 9.5.0 to 10.3.0,2024-04-01T18:46:07+00:00,Not Merged,cwlroda
+1787220505,[Snyk] Fix for 12 vulnerabilities,2024-03-22T19:50:28+00:00,Not Merged,cwlroda
+1769011928,[Snyk] Fix for 12 vulnerabilities,2024-03-12T22:26:52+00:00,Not Merged,cwlroda
+1707434179,[Snyk] Security upgrade pillow from 9.5.0 to 10.2.0,2024-02-02T00:35:07+00:00,Not Merged,cwlroda
+1688844359,[Snyk] Security upgrade pillow from 9.5.0 to 10.2.0,2024-01-21T22:18:11+00:00,Not Merged,cwlroda
+1586873037,[Snyk] Security upgrade pillow from 9.5.0 to 10.0.0,2023-11-04T02:00:31+00:00,Not Merged,cwlroda
+1537432793,[Snyk] Security upgrade opencv-python from 4.2.0.34 to 4.8.1.78,2023-10-02T04:58:19+00:00,Not Merged,cwlroda
+1531624078,[Snyk] Security upgrade pillow from 9.5.0 to 10.0.1,2023-09-27T04:03:42+00:00,Not Merged,cwlroda
+1246454356,[Snyk] Security upgrade numpy from 1.21.3 to 1.22.2,2023-02-19T22:39:33+00:00,Not Merged,snyk-bot
+1169972678,[Snyk] Security upgrade torch from 1.6.0 to 1.13.1,2022-12-18T22:56:14+00:00,Not Merged,snyk-bot
+847903792,fix multiple errors,2022-02-11T17:39:56+00:00,Not Merged,igarg2001
+521648047,Fix source args for webcam in project,2020-11-16T12:59:20+00:00,Not Merged,robbiwu

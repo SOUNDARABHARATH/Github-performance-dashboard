@@ -1,0 +1,21 @@
+Commit Frequency:
+
+"Can you show me the commit frequency?"
+"How often are commits made?"
+Issue Resolution Time:
+
+"What's the average issue resolution time?"
+"How long does it take to resolve issues?"
+PR Merge Rate:
+
+"What's the pull request merge rate?"
+"How many PRs get merged?"
+Code Review Metrics:
+
+"Can I see the code review metrics?"
+"How are code reviews performed?"
+LLM Example Queries:
+
+"How many contributors are there in the repository?"
+"What is the most active contributor?"
+"Show the latest pull request details."

@@ -1,0 +1,22 @@
+sha,author,date,message
+1d573029c38b3ffe433c87e39f5af713821ee839,claralebbos,2020-02-29T18:00:10+00:00,"Merge pull request #2 from cwlroda/testbranch
+
+Testbranch"
+5cd0d3ef877b5dc68fc39b645e8f234992da660a,claralebbos,2020-02-29T17:59:17+00:00,Merge branch 'master' into testbranch
+913418c57805d1e50206b625aa1aaca4542fdd93,Wei Loon,2020-02-29T17:55:24+00:00,adsf
+7f9eee67b13dd5eef2ac6aaa80816c15e0bf78f6,claralebbos,2020-02-29T14:50:31+00:00,"Merge pull request #1 from cwlroda/clara_frontend
+
+Added files to my branch"
+0023ff5f937d8d117ef20add44108c82fbdffce2,claralebbos,2020-02-29T14:50:04+00:00,Merge branch 'master' into clara_frontend
+142b87bad113293636486ba2c5d9b74c7b8d7428,Wei Loon,2020-02-29T14:45:05+00:00,Delete .DS_Store
+b0531183f531e6551b336cfa7e0460444f33bc1a,Wei Loon,2020-02-29T14:43:26+00:00,linked database
+32850a76aa6ba0af3c117c50f0bc173e0700a3be,claralebbos,2020-02-29T14:42:20+00:00,Added files to my branch
+84e47bc913d07045ce74ae4d9de3241af4705ab9,Wei Loon,2020-02-29T13:10:31+00:00,updates for firestore
+783f427abfb477d9f523d9c17ed99b98e8198384,Wei Loon,2020-02-29T12:23:24+00:00,fixed linking issues
+4ad56fc7167ae5d2f4f7a9d3f77a09147ebd08c5,Wei Loon,2020-02-29T12:17:57+00:00,Merge branch 'master' of https://github.com/cwlroda/Hack-A-Project-20
+f9b53301f2ec772a9764341c94abac66b990e8f0,Wei Loon,2020-02-29T12:16:59+00:00,Installed firebase functions
+13e069bf378741f44a9011b2ff5dfa5bbee10ccc,Wei Loon,2020-02-29T12:09:52+00:00,Installed cocoa pods
+66f8951af06649b516ca38596ac8e3af256ba4a7,Wei Loon,2020-02-29T11:44:16+00:00,Deleted old version
+8d470d075046cf4c54b61cd2bfc5e12946556242,claralebbos,2020-02-29T11:40:51+00:00,Adding correct xcode project
+3cd3b8758435816f9f9b30738692e14e33824e79,cl10918,2020-02-29T10:39:30+00:00,Add hack a project XCode project
+5667b0e390035657e79d28f648f1722b778fcdcf,Wei Loon,2020-02-24T21:08:51+00:00,Initial commit

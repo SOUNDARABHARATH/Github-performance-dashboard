@@ -1,0 +1,46 @@
+id,title,state,created_at,closed_at
+2498440799,Bump opencv-python from 4.2.0.34 to 4.8.1.78,open,2024-08-30T23:54:27+00:00,Not Closed
+2429678645,Bump torch from 1.6.0 to 2.2.0,open,2024-07-25T11:04:07+00:00,Not Closed
+2251686717,[Snyk] Security upgrade torch from 1.6.0 to 2.2.0,open,2024-04-18T22:28:18+00:00,Not Closed
+2218847271,[Snyk] Security upgrade pillow from 9.5.0 to 10.3.0,open,2024-04-01T18:46:07+00:00,Not Closed
+2203206374,[Snyk] Fix for 12 vulnerabilities,open,2024-03-22T19:50:28+00:00,Not Closed
+2182791702,[Snyk] Fix for 12 vulnerabilities,open,2024-03-12T22:26:53+00:00,Not Closed
+2113801029,[Snyk] Security upgrade pillow from 9.5.0 to 10.2.0,open,2024-02-02T00:35:07+00:00,Not Closed
+2092807644,[Snyk] Security upgrade pillow from 9.5.0 to 10.2.0,open,2024-01-21T22:18:11+00:00,Not Closed
+1977111717,[Snyk] Security upgrade pillow from 9.5.0 to 10.0.0,open,2023-11-04T02:00:31+00:00,Not Closed
+1921249766,[Snyk] Security upgrade opencv-python from 4.2.0.34 to 4.8.1.78,open,2023-10-02T04:58:19+00:00,Not Closed
+1914646568,[Snyk] Security upgrade pillow from 9.5.0 to 10.0.1,open,2023-09-27T04:03:42+00:00,Not Closed
+1800969262,How Do You Get The Fall Count Number to Display in the Show Window?,open,2023-07-12T13:18:34+00:00,Not Closed
+1790984850,    logger.cli(parser) AttributeError: module 'openpifpaf.logger' has no attribute 'cli',open,2023-07-06T07:31:56+00:00,Not Closed
+1772580031,Very laggy detection and too low fps,open,2023-06-24T09:54:08+00:00,Not Closed
+1692138687,How to exit the program,open,2023-05-02T10:06:04+00:00,Not Closed
+1669652280,For help,open,2023-04-16T03:28:51+00:00,Not Closed
+1657435816,Cannot open stream,open,2023-04-06T13:31:13+00:00,Not Closed
+1627089556,How to change the config file to use fall detection on video?,open,2023-03-16T09:52:37+00:00,Not Closed
+1590887201,[Snyk] Security upgrade numpy from 1.21.3 to 1.22.2,open,2023-02-19T22:39:33+00:00,Not Closed
+1502062936,[Snyk] Security upgrade torch from 1.6.0 to 1.13.1,open,2022-12-18T22:56:14+00:00,Not Closed
+1319427632,"subprocess.CalledProcessError: Command '['ffmpeg', '-f', 'rawvideo', '-vcodec', 'rawvideo', '-s', '800x450', '-pix_fmt', 'rgba', '-r', '30', '-loglevel', 'error', '-i', 'pipe:', '-vcodec', 'h264', '-pix_fmt', 'yuv420p', '-y', 'True']' returned non-zero exit status 1.",open,2022-07-27T11:34:00+00:00,Not Closed
+1213761716,how can I take a regular video file as input? ,open,2022-04-24T20:35:36+00:00,Not Closed
+1200166872,"plz help ,run demo error",open,2022-04-11T15:44:16+00:00,Not Closed
+1142339499,"RuntimeError: Tried to instantiate class 'openpifpaf_decoder_utils.NMSKeypoints', but it does not exist! Ensure that it is registered via torch::jit::class_",open,2022-02-18T04:44:40+00:00,Not Closed
+1132902540,fix multiple errors,open,2022-02-11T17:39:56+00:00,Not Closed
+1132900859,AttributeError: 'int' object has no attribute 'startsWith',open,2022-02-11T17:38:09+00:00,Not Closed
+1132898813,TypeError: can only concatenate str(not NoneType) to str,open,2022-02-11T17:36:03+00:00,Not Closed
+1073020440,'FFMpegWriter' object has no attribute '_proc' errors,closed,2021-12-07T07:40:37+00:00,2021-12-07T11:53:32+00:00
+1052641410,I occured this error,open,2021-11-13T09:41:52+00:00,Not Closed
+1012919891,No module named 'openpifpaf.functional',open,2021-10-01T05:38:58+00:00,Not Closed
+919842582,cannot import name 'scalar_square_add_single',open,2021-06-13T17:11:45+00:00,Not Closed
+909491256,Run This code on windows,open,2021-06-02T13:15:47+00:00,Not Closed
+857964126,Runtime Error,open,2021-04-14T14:37:02+00:00,Not Closed
+841226314,Usage instructions in README.md have an incorrect path,open,2021-03-25T19:05:58+00:00,Not Closed
+832490360,Run the code on arm platform？,open,2021-03-16T07:12:48+00:00,Not Closed
+820536849,how detect the start and end of fall process,open,2021-03-03T01:30:00+00:00,Not Closed
+787505941,How tracker is integrated in video.py?,open,2021-01-16T16:50:09+00:00,Not Closed
+774687688,训练,open,2020-12-25T09:11:03+00:00,Not Closed
+755940856,Data annotation,open,2020-12-03T07:21:49+00:00,Not Closed
+754217187,How do you detect fall?,open,2020-12-01T09:23:24+00:00,Not Closed
+743817355,Fix source args for webcam in project,open,2020-11-16T12:59:20+00:00,Not Closed
+734043648,I cannot run the code ! and the webcam,open,2020-11-01T19:33:29+00:00,Not Closed
+723096714,support fall-detect for Single frame?,closed,2020-10-16T10:22:48+00:00,2020-10-27T02:39:53+00:00
+718685688,some issue to run on webcam,open,2020-10-10T19:23:59+00:00,Not Closed
+703426083,I didn't find way to show fall count in video.,open,2020-09-17T09:34:35+00:00,Not Closed

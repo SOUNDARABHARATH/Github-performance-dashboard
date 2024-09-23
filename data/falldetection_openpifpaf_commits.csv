@@ -1,0 +1,42 @@
+sha,author,date,message
+615f1f89e0046b86e4dcfc487c0cfdb734457ded,Wei Loon,2020-09-04T11:16:28+00:00,Update README.md
+8624d485a9d203dcda95d4d5fa6bbeaf4653917f,Wei Loon,2020-09-04T11:08:37+00:00,Update README.md
+fed2bda460d1cd29c2e5f3809db7c76f74e9fa57,Wei Loon,2020-09-04T11:01:36+00:00,Update README.md
+1e7b9b9a1bfa09ca183e6d7dae958c0b0948c70d,cwlroda,2020-09-04T10:56:47+00:00,Added test videos
+6ea9516f54877170acb05573f95642d5e4c683b3,cwlroda,2020-09-04T10:51:51+00:00,Update config.xml
+512f09339df9c3ccad51551606ffc64f37e919d4,cwlroda,2020-09-04T10:50:59+00:00,Update README.md
+28a929ad3e91602db863e9679376dc427fa90086,cwlroda,2020-09-04T10:15:48+00:00,Merge branch 'master' of https://github.com/cwlroda/falldetection_openpifpaf
+c5b616306080cf5d1af86c8d9e2bc92436f60f6f,cwlroda,2020-09-04T10:15:13+00:00,Improved fall detection threshold
+5df8a91ca920342e9069f7e98928713aea0344e3,Wei Loon,2020-09-04T08:25:59+00:00,Update README.md
+3540c71038ad13fda3dec27d6d49e30c368c90f9,cwlroda,2020-09-04T08:19:10+00:00,Fixed crowd transparency and colour scheme
+d9e014b4d746f5e5e433391ca791ae7c30072909,cwlroda,2020-09-04T08:15:36+00:00,Added 2D-plane vector calculations in fall detection algorithm
+2b0e64a4507ea4d05ff99683fed2bbad385d000f,cwlroda,2020-09-02T10:28:26+00:00,Updated fall detection algorithm to remove false positives
+7a1a15895a467e98a12fc9acbe85eb10cf834f90,cwlroda,2020-09-01T14:21:03+00:00,Updated fall detection algorithm
+20de866a7fcc9ca9bb8f754e76bc2c374c7891a3,cwlroda,2020-08-31T11:12:21+00:00,Fixed bugs
+a10af20af6a4b812fec43509a1d339c8ee6853c3,cwlroda,2020-08-28T17:55:53+00:00,Added auto-reconnection function for RTSP streams
+191192d6c95b1b770231c9a4b781cbd9e6673f4a,Wei Loon,2020-08-27T14:58:14+00:00,Update README.md
+b5a194e2256e3292b5d9710ba0f299a17d071cf4,Wei Loon,2020-08-27T14:55:38+00:00,Update requirements.txt
+13fc095c438a38148913bf8df0732929700f51cc,Wei Loon,2020-08-27T14:54:40+00:00,Update README.md
+01543e1765815b72b7109c4e762afd43c002518f,cwlroda,2020-08-27T14:48:43+00:00,Merge branch 'master' of https://github.com/cwlroda/falldetection_openpifpaf
+64c44926aa6256976464b99d88e1c16545804fa2,cwlroda,2020-08-27T14:48:25+00:00,Added demo gifs
+d65a22702d1af74cda0a533b5148b6de1dcd9b7f,Wei Loon,2020-08-27T14:36:11+00:00,Update README.md
+15305d7fcd1078bad60515c818969c4819f91aeb,cwlroda,2020-08-27T14:33:46+00:00,Updated to run multiple streams on GPU
+302120ea9329b9e7b32a9488571eeda2cd9c943a,cwlroda,2020-08-27T08:14:11+00:00,Merge branch 'master' of https://github.com/cwlroda/falldetection_openpifpaf
+f73ac881aa513b4c5434a01f13ff2c90bf33b357,cwlroda,2020-08-27T08:13:44+00:00,Added compatibility for single stream running on GPU
+730d7087b696e4484670ced9887f04a59cd8aca9,Wei Loon,2020-08-26T09:28:35+00:00,Update requirements.txt
+903f4cc3e7b66636ed306cf0e26e6e2d323fa4c7,Wei Loon,2020-08-26T09:27:46+00:00,Update README.md
+1c7718c7a8f893a8dbe35afd204268190bc63bb5,cwlroda,2020-08-26T08:59:08+00:00,Added image writer class
+40ecb2a4e24fe836b392ebc835cd658749b7e54d,cwlroda,2020-08-26T06:10:47+00:00,Updated fall detection algorithm
+f15deaa9af5b2ba8613c757e8247683cd8114103,Wei Loon,2020-08-24T16:47:36+00:00,Update README.md
+b32210c65151ebbb5bd96791bd2daad333a234ec,Wei Loon,2020-08-24T16:44:57+00:00,Update README.md
+1d7fb812d63c12f5a9b2d51367955a52ed1a772d,cwlroda,2020-08-24T15:19:06+00:00,Integrated fall detection algorithm with tracker
+afd1d3cc4c56036ebb846894d9b735b731e50e84,cwlroda,2020-08-24T15:18:34+00:00,Integrated fall detection algorithm with tracker
+e08b828e2985af76904b6b41a4f45c14f2d3963c,cwlroda,2020-08-21T14:44:35+00:00,Updated
+ecc9fa880b3528f4e335861233881141672fbbc3,cwlroda,2020-08-21T14:41:18+00:00,Added primitive person centroid tracker
+9811753f47b31dd58e33386d22ea92ae324145d8,Wei Loon,2020-08-20T17:01:29+00:00,Update requirements.txt
+98371e333cfdc0a4c5740c007926d043211c263d,Wei Loon,2020-08-20T17:00:55+00:00,Update README.md
+eb258c144c895e72107f4b4dcda3a7cc910ba6e2,cwlroda,2020-08-20T16:47:37+00:00,Switched to multiprocessing to run multiple streams in parallel
+a1884bbc77496e64e7d5bc0f19bc026ea0a66ad9,cwlroda,2020-08-20T02:28:39+00:00,Updated
+e5d8536eaae6c58f0a76b02d3b60658b7f710714,cwlroda,2020-08-20T02:11:10+00:00,Developed basic VA pipeline (alpha)
+3a638d2829866e30b7767d3bed7fd0eae0f1117b,cwlroda,2020-08-18T15:36:54+00:00,Implemented basic fall detection algorithm for single subject
+4f20da1900fc25b3b7130b19ae7980c89f587a9c,cwlroda,2020-08-18T15:35:47+00:00,Implemented basic fall detection algorithm for single subject
